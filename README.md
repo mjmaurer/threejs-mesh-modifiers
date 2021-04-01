@@ -1,5 +1,7 @@
 ## Threejs mesh modifiers
 
+**Notice:** Using Three's \*Geometry classes with this library will no longer work as of r125 due to the move to BufferedGeometry.
+
 A Three.js mesh morph modifier, including nearly ten modifiers, such as Bend, Bloat, Noise, Skew and Taper, etc. It is very lightweight and simple to use, using it can give you unexpected results.
 
 ```shell
